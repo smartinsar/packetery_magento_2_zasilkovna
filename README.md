@@ -1,3 +1,9 @@
+Custom API function ADDED.
+
+API call:
+https://yoururl.com/rest/all/V1/packetery/orders/[order_number]
+
+
 [Návod v češtině](https://github.com/Zasilkovna/magento2#modul-pro-magento-2)
     
 # Module for Magento 2
